@@ -6,6 +6,7 @@ Este relatório é referente ao experimento com Arduino da disciplina de Computa
 Professor: José Viterbo Filho
 
 Alunos: Carlos Alberto Teixeira Damas, Felipe José Perpétuo Assad, Hugo Caetano Borges Carneiro, Rafael de Araújo Skinner e Yan Provenzano.
+
 Data: 12/11/2019
 
 
@@ -29,3 +30,8 @@ O experimento foi realizado no dia 12 de novembro de 2019 no Laboratório de Pes
 O primeiro passo do experimento foi a instaladção dos softwares Netbeans, Arduino, Python 2.7 e PySerial. Em seguida foi criado um projeto no Netbeans e adicionada a biblioteca Javino nele. Por fim, foi também adicionada a biblioteca Javino no Arduino.
 
 
+
+
+
+
+OBS: Os valores obtidos no experimento foram salvos em um arquivo .txt e depois plotados em um gráfico pelo excel.
