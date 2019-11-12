@@ -24,16 +24,8 @@ Para desenvolver esta aplicação foram utilizados os seguintes hardwares: Ardui
 
 ## Experimento 
 
+O experimento foi realizado no dia 12 de novembro de 2019 no Laboratório de Pesquisa (sala 403) com a presença de todos os alunos, a máquina disponibilizada pela aluna de doutorado Mônica e o kit do arduino disponibilizado peloprofessor Pantoja.
 
-### Instalação
+O primeiro passo do experimento foi a instaladção dos softwares Netbeans, Arduino, Python 2.7 e PySerial. Em seguida foi criado um projeto no Netbeans e adicionada a biblioteca Javino nele. Por fim, foi também adicionada a biblioteca Javino no Arduino.
 
-Foram instalados os softwares Netbeans, Arduino, Python 2.7 e PySerial.
-
-
-
-### CVriação do projeto JAVA
-
-### Adicionou a biblioteca Javino ao projeto Java
-
-### Adicionou a biblioteca Javino no Arduino 
 
