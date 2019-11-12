@@ -9,7 +9,7 @@ Alunos: Carlos Alberto Teixeira Damas, Felipe José Perpétuo Assad, Hugo Caetan
 Data: 12/11/2019
 
 
-## Atividade
+## Descrição da Atividade
 
 Desenvolver um projeto com Arduino, medir temperatura e luminosidade. Coletar através da interface serial (usando o Javino) os valores e plotar um gráfico dos dados.
 
