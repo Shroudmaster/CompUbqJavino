@@ -58,6 +58,6 @@ Para o experimento de luminosidade, inicialmente foi utilizado o máximo de lumi
 
 ![Dados do experimento de Luminosidade](lum.PNG)
 
-
-
 OBS: Os valores obtidos no experimento foram obtidos no dia do experiemnto e anotado para serem plotados em um gráfico pelo excel.
+
+## Conclusão
