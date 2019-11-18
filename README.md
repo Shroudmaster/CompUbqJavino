@@ -47,10 +47,14 @@ O primeiro passo do experimento foi a instaladção dos softwares Netbeans, Ardu
 
 ### Temperatura
 
+Para o experimento da temperatura, foi utilizado o ar condicionado da sala 403. Inicialmente ligado há mais de uma hora, o valor obtido foi 22 graus. Num segundo momento, após desligar o ar e esperar bons minutos, o valor obtido foi 24 graus. Por fim, colocando o hardware para fora da sala para medir a temperatura do corredor, o valor obtido foi 25 graus.
+
 ![Dados do experimento da Temperatura](temp.PNG)
 
 
 ### Luminosidade
+
+Para o experimento de luminosidade, inicialmente foi utilizado o máximo de luminosidade sobre o sensor, isto é, todas as luzes da sala acesas e duas lanternas de celular acesas também exatamente acima do sensor. Nessa condição, foi obtido o valor de 57 u.l.. Em seguida, foram retiradas as luzes das lanternas apenas e o valor obtido foi 194 u.l.. Em um terceiro experimento, foi desligada uma única luz da sala e assim foi obtido o valor de 204 u.l.. Por fim, foi retirada qualquer luminosidade da sala e o sensor de luminosidade obteve o valor de 675 u.l.
 
 ![Dados do experimento de Luminosidade](lum.PNG)
 
