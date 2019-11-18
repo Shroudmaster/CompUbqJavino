@@ -58,7 +58,7 @@ Para o experimento da temperatura, foi utilizado o ar condicionado da sala 403. 
 
 Para o experimento de luminosidade, inicialmente foi utilizado o máximo de luminosidade sobre o sensor, isto é, todas as luzes da sala acesas e duas lanternas de celular acesas também exatamente acima do sensor. Nessa condição, foi obtido o valor de 57 u.l.. 
 
-![Experimento com máximo de luzes em cima do sensor](exp2.jpg)
+![Experimento com máximo de luzes em cima do sensor](exp2.jpg =100x20)
 
 Em seguida, foram retiradas as luzes das lanternas apenas e o valor obtido foi 194 u.l.. Em um terceiro experimento, foi desligada uma única luz da sala e assim foi obtido o valor de 204 u.l.. Por fim, foi retirada qualquer luminosidade da sala e o sensor de luminosidade obteve o valor de 675 u.l.
 
