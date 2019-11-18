@@ -41,7 +41,7 @@ O experimento foi realizado no dia 12 de novembro de 2019 no Laboratório de Pes
 
 O primeiro passo do experimento foi a instaladção dos softwares Netbeans, Arduino, Python 2.7 e PySerial. Em seguida foi criado um projeto no Netbeans e adicionada a biblioteca Javino nele. Por fim, foi também adicionada a biblioteca Javino no Arduino.
 
-Após a instalação, foi montado o circuito com o arduino e a protoboard, conforme a imagem abaixo.
+Após a instalação, foi montado o circuito com o arduino e a protoboard. Uma das configurações do circuito montado está mostrado na foto abaixo.
 
 ![Circuito montado para o trabalho](exp1.jpg)
 
