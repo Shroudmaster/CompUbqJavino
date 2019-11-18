@@ -47,12 +47,12 @@ O primeiro passo do experimento foi a instaladção dos softwares Netbeans, Ardu
 
 ### Temperatura
 
-![Dados do experimento da Temperatura](temperatura.PNG)
+![Dados do experimento da Temperatura](temp.PNG)
 
 
 ### Luminosidade
 
-![Dados do experimento de Luminosidade](luminosidade.PNG)
+![Dados do experimento de Luminosidade](lum.PNG)
 
 
 
