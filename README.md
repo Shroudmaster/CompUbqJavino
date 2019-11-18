@@ -43,7 +43,17 @@ O primeiro passo do experimento foi a instaladção dos softwares Netbeans, Ardu
 
 
 
+## Gráficos
+
+### Temperatura
+
+![Dados do experimento da Temperatura](temperatura.png)
+
+
+### Luminosidade
+
+![Dados do experimento de Luminosidade](luminosidade.png)
 
 
 
-OBS: Os valores obtidos no experimento foram salvos em um arquivo .txt e depois plotados em um gráfico pelo excel.
+OBS: Os valores obtidos no experimento foram obtidos no dia do experiemnto e anotado para serem plotados em um gráfico pelo excel.
