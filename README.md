@@ -5,7 +5,7 @@ Este relatório é referente ao experimento com Arduino da disciplina de Computa
 
 Professor: José Viterbo Filho
 
-Alunos: Carlos Alberto Teixeira Damas, Felipe José Perpétuo Assad, Hugo Caetano Borges Carneiro, Rafael de Araújo Skinner e Yan Provenzano.
+Alunos: Carlos Alberto Teixeira Damas, Felipe José Perpétuo Assad, Hugo Caetano Borges Carneiro, Rafael de Araujo Skinner e Yan Provenzano.
 
 Data: 12/11/2019
 
@@ -56,14 +56,14 @@ Para o experimento da temperatura, foi utilizado o ar condicionado da sala 403. 
 
 ### Luminosidade
 
-Para o experimento de luminosidade, inicialmente foi utilizado o máximo de luminosidade sobre o sensor, isto é, todas as luzes da sala acesas e duas lanternas de celular acesas também exatamente acima do sensor. Nessa condição, foi obtido o valor de 57 u.l.. 
+Para o experimento de luminosidade, inicialmente foi utilizado o máximo de luminosidade sobre o sensor, isto é, todas as luzes da sala acesas e duas lanternas de celular acesas também exatamente acima do sensor. Nessa condição, foram obtidos valores em torno de 57 u.l.. 
 
 ![Experimento com máximo de luzes em cima do sensor](exp2.jpg)
 
-Em seguida, foram retiradas as luzes das lanternas apenas e o valor obtido foi 194 u.l.. Em um terceiro experimento, foi desligada uma única luz da sala e assim foi obtido o valor de 204 u.l.. Por fim, foi retirada qualquer luminosidade da sala e o sensor de luminosidade obteve o valor de 675 u.l.
+Em seguida, foram retiradas as luzes das lanternas apenas e os valores obtidos foramepor volta de 194 u.l.. Em um terceiro experimento, foi desligada uma única luz da sala e assim foram obtidos valores flutuando em 204 u.l.. Por fim, foi retirada qualquer luminosidade da sala e o sensor de luminosidade obteve valores em média de 675 u.l.
 
 ![Dados do experimento de Luminosidade](lum.PNG)
 
-OBS: Os valores obtidos no experimento foram obtidos no dia do experiemnto e anotado para serem plotados em um gráfico pelo excel.
+OBS: Os valores obtidos no experimento foram obtidos no dia do experimento e anotado para serem plotados em um gráfico pelo excel.
 
 ## Conclusão
