@@ -31,11 +31,11 @@ Tendo em vista que luz é fonte de calor, a aplicação compreende que quanto ma
 
 ## Materiais
 
-Para desenvolver esta aplicação foram utilizados os seguintes hardwares: Arduino UNO, protoboard, sensor de lumninosidade, sensor de temperatura, resistores. Foram também utilizados os seguintes softwares: Arduino, Netbeans, Javino, Python 2.7, PySerial.
+Para desenvolver esta aplicação foram utilizados os seguintes hardwares: Arduino UNO, protoboard, sensor de lumninosidade, sensor de temperatura, resistores e jumpers. Foram também utilizados os seguintes softwares: Java, Arduino, Netbeans, Javino, Python 2.7, PySerial.
 
 ## Experimento 
 
-O experimento foi realizado no dia 12 de novembro de 2019 no Laboratório de Pesquisa (sala 403) com a presença de todos os alunos, a máquina disponibilizada pela aluna de doutorado Mônica e o kit do arduino disponibilizado peloprofessor Pantoja.
+O experimento foi realizado no dia 12 de novembro de 2019 no Laboratório de Pesquisa (sala 403) com a presença de todos os alunos, a máquina disponibilizada pela aluna de doutorado Mônica e o kit do arduino disponibilizado pelo professor Pantoja.
 
 ![Execução do trabalho](trab.jpg)
 
