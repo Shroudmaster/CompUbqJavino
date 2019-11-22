@@ -16,21 +16,14 @@ public class CidadeMaravilhosa {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
-        
         Javino j = new Javino();
         String port = "COM7";
-       
-        
-                  
+         
         while(true){
             if(j.listenArduino(port)){
-                System.out.println(j.getData()+" ");
-                //System.out.println(" "+j.getData());
+                System.out.println(j.getData());
             }
         }
-        
-    
-    
-}
+
+    }
 }
