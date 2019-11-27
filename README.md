@@ -68,5 +68,5 @@ OBS: Os valores obtidos no experimento foram obtidos no dia do experimento e ano
 
 ## Conclusão
 
-Os objetivos desta atividade foram alcançados com sucesso. Todo o fluxo, desde a intalação dos mais simples programas no notebook recém formatado, foi realizado pelo grupo completo, o que gerou aprimoramento para quem já mexia com esse tipo de atividade mas também aprendizado para os que ainda não tinham contato com Arduino.
+Os objetivos desta atividade foram alcançados com sucesso. Todo o fluxo, desde a instalação dos mais simples programas no notebook recém formatado, foi realizado pelo grupo completo, o que gerou aprimoramento para quem já mexia com esse tipo de atividade mas também aprendizado para os que ainda não tinham contato com Arduino.
 Em relação aos resultados obtidos, eles denotam a corretude das configurações do experimento bem como da sua realização como um todo.
